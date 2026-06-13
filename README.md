@@ -184,9 +184,6 @@ lru_cache/
 ├── waveforms/
 │   └── simulation_waveform.png
 │
-├── docs/
-│   └── design_notes.md
-│
 └── README.md
 ```
 
