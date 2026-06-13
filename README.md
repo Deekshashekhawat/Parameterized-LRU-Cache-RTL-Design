@@ -25,14 +25,13 @@ The implementation was completed independently as a learning exercise to strengt
 
 ## Features
 
-* Parameterized address width
-* Parameterized cache depth
+* Parameterized address width and cache depth
+*  LRU replacement policy
 * Hit and miss detection
-* LRU replacement policy
 * Automatic cache entry reordering
 * Eviction notification and evicted address output
 * Synthesizable RTL implementation
-* Verilog-based design
+
 
 ---
 
