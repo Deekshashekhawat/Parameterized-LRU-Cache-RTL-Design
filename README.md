@@ -58,7 +58,8 @@ mem[DEPTH-1] → Most Recently Used (MRU)
 ```
 
 ---
-<img width="1500" height="567" alt="image" src="https://github.com/user-attachments/assets/33883b18-d95d-4123-8214-7104900c5f84" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6563ac35-02e6-47a9-9050-215f3b19cd0b" />
+
 
 
 ## Functional Description
